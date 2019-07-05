@@ -1,5 +1,6 @@
 {
   "name": "ticking_clock",
+  "homepage" : "http://rj-maitra.github.io/react-ticking-clock",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
